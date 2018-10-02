@@ -5,3 +5,4 @@ fifa
 chess
 carrom
 cricket
+le panga kabbadi
