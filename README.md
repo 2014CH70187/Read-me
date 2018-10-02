@@ -4,3 +4,4 @@ shortest code use for
 fifa
 chess
 carrom
+cricket
